@@ -5720,6 +5720,17 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/trainspotting_8007.jpg",
                     "url": "https://upstream.to/rz7gelzglcmt",
                     "isHost":"true" 
-                     }] 
+                     }]
+                },{  
+            "name": "+ PELÍCULAS",
+            "image": "https://cdn-icons-png.flaticon.com/512/195/195158.png",
+            "info": "",
+               "stations": [{  
+                   "name": "10-12-2023",
+                   "name": "Los ojos del mal (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_ojos_del_mal_59580.jpg",
+                    "url": "https://ok.ru/video/2125306661623",
+                    "isHost":"true" 
+                     }]
             }]   
    }

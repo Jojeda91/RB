@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD CANALES",
-    "author": "ROBIN HOOD - 12/01/2024 - 09:00h",
+    "author": "ROBIN HOOD - 12/01/2024 - 09:40h",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si falla algún canal intento reponerlo lo antes posible. Ten en cuenta que si tú no puedes ver un evento, yo tampoco. Soy el primer interesado en que todo funcione pero no te lo puedo garantizar. Si no se consigue reparar un canal, recomiendo coger el monedero y bajar al bar, pedir una estrella galicia y frutos secos, y avisar a Robin.",
     "telegram": "",
@@ -251,6 +251,20 @@
                          "name": "Supercopa 720",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
+                        }]   
+                  },{
+            "name": "SUPERCOPA OPCION 2",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+            "info": "",
+            "stations": [{
+                    "name": "Supercopa 1080",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "http://amelie.solanaflix.com:8080/play/iLah5N31SKrwIQvsDbq-8QXN08JO14Y48gZaS-8klI71TC5CHSXaZ9bZvzi8Vc9U"
+                         }, {
+
+                         "name": "Supercopa 720",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "http://amelie.solanaflix.com:8080/play/iLah5N31SKrwIQvsDbq-8QXN08JO14Y48gZaS-8klI6p8Qyyl8tb8RM4xzFZKk9I"
                         }]   
                   },{
             "name": "M+ LALIGA",

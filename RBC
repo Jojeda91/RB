@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD CANALES",
-    "author": "ROBIN HOOD - 11/01/2024 - 13:30h",
+    "author": "ROBIN HOOD - 12/01/2024 - 08:50h",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si falla algún canal intento reponerlo lo antes posible. Ten en cuenta que si tú no puedes ver un evento, yo tampoco. Soy el primer interesado en que todo funcione pero no te lo puedo garantizar.",
     "telegram": "",
@@ -229,6 +229,30 @@
                    	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60bRR"
                         }]
                  },{
+            "name": "SUPERCOPA",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+            "info": "",
+            "stations": [{
+                    "name": "Supercopa 1080",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+                         }, {
+
+                         "name": "Supercopa 1080 2",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "http://amelie.solanaflix.com:8080/play/iLah5N31SKrwIQvsDbq-8QbWkeJQHnjIJ2hDgaJ38v9vqP9ZkRi_eag3MqcHRnmx"
+                         }, {
+
+                         "name": "Supercopa 1080 Multiaudio",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+                         }, {
+
+                         "name": "Supercopa 720",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
+                        }]   
+                  },{
             "name": "M+ LALIGA",
             "image": "https://assets.laliga.com/assets/2021/07/26/xlarge/3fc92cb198e605c114ef33b27651d0ec.png",
             "info": "",
@@ -236,10 +260,6 @@
                                     "name": "M. LaLiga UHD",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
-                         }, {
-                         "name": "M+ Supercopa 1080",
-                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
                          }, {
 
                          "name": "M. LaLiga 1080P",

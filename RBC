@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD CANALES",
-    "author": "ROBIN HOOD - 12/01/2024 - 08:50h",
+    "author": "ROBIN HOOD - 12/01/2024 - 09:00h",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si falla algún canal intento reponerlo lo antes posible. Ten en cuenta que si tú no puedes ver un evento, yo tampoco. Soy el primer interesado en que todo funcione pero no te lo puedo garantizar.",
     "telegram": "",
@@ -235,22 +235,22 @@
             "stations": [{
                     "name": "Supercopa 1080",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+                   	"url" :  "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
                          }, {
 
                          "name": "Supercopa 1080 2",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "http://amelie.solanaflix.com:8080/play/iLah5N31SKrwIQvsDbq-8QbWkeJQHnjIJ2hDgaJ38v9vqP9ZkRi_eag3MqcHRnmx"
+                   	"url" :  "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
                          }, {
 
                          "name": "Supercopa 1080 Multiaudio",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+                   	"url" :  "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
                          }, {
 
                          "name": "Supercopa 720",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
+                   	"url" :  "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
                         }]   
                   },{
             "name": "M+ LALIGA",

@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD CANALES",
-    "author": "ROBIN HOOD - 12/01/2024 - 09:40h",
+    "author": "ROBIN HOOD - 14/01/2024 - 20:22h",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si falla algún canal intento reponerlo lo antes posible. Ten en cuenta que si tú no puedes ver un evento, yo tampoco. Soy el primer interesado en que todo funcione pero no te lo puedo garantizar. Si no se consigue reparar un canal, recomiendo coger el monedero y bajar al bar, pedir una estrella galicia y frutos secos, y avisar a Robin.",
     "telegram": "",
@@ -240,12 +240,17 @@
 
                          "name": "Supercopa 1080 2",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
+                   	"url" :  "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                          }, {
 
                          "name": "Supercopa 1080 Multiaudio",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+                         }, {
+                         
+                         "name": "Supercopa 1080 3",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
                          }, {
 
                          "name": "Supercopa 720",

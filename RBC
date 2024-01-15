@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD CANALES",
-    "author": "ROBIN HOOD - 14/01/2024 - 20:22h",
+    "author": "ROBIN HOOD - 15/01/2024 - 09:50h",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si falla algún canal intento reponerlo lo antes posible. Ten en cuenta que si tú no puedes ver un evento, yo tampoco. Soy el primer interesado en que todo funcione pero no te lo puedo garantizar. Si no se consigue reparar un canal, recomiendo coger el monedero y bajar al bar, pedir una estrella galicia y frutos secos, y avisar a Robin.",
     "telegram": "",
@@ -32,12 +32,12 @@
             "stations": [{
                     "name": "La 1",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+                   	"url" :  "acestream://fa79d8cea5689da7a69a5afd833690f4aa544cd3"
                          }, {
 
                          "name": "LA 1 UHD",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "http://amelie.solanaflix.com:8080/play/iLah5N31SKrwIQvsDbq-8QbWkeJQHnjIJ2hDgaJ38v9vqP9ZkRi_eag3MqcHRnmx"
+                   	"url" :  "acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af"
                          }, {
 
                          "name": "LA 2",
@@ -752,7 +752,7 @@
 
                          "name": "M.L. Campeones 2 720",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://94cbea972894d7733f34ec4bdca0452f52e3e1e8"
+                   	"url" :  "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"
                          }, {
 
                          "name": "M.L. Campeones 3 1080",
@@ -772,12 +772,12 @@
 
                          "name": "M.L. Campeones 5 1080",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"
+                   	"url" :  "acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561"
                          }, {
 
                          "name": "M.L. Campeones 6 1080",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"
+                   	"url" :  "acestream://64a9353032efa2acb093d0bb86481f20f482d47e"
                          }, {
 
                          "name": "M.L. Campeones 7 1080",
@@ -1633,7 +1633,7 @@
 
                          "name": "DAZN LaLiga 2 720 MultiAudio",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"
+                   	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
                          }, {
 
                          "name": "DAZN LaLiga 3 1080 MultiAudio",

@@ -28070,7 +28070,8 @@
 "name": "Successions",
 		"image": "https://pics.filmaffinity.com/succession-557515294-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SUCCESSIONS.w3u",
-		"info": "bY. Adri"
+		"info": "bY. Adri",
+		"import": true
 		},
 		{
 		"name": "OutLander",

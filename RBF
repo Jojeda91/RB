@@ -1,6 +1,6 @@
 {
     "name": "ROBIN HOOD FILMS",
-    "author": "ROBIN HOOD - 24/01/2024 - 13:30H",
+    "author": "ROBIN HOOD - 08/01/2024 - 12:15H",
     "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
     "info": "Si no funciona alguna película puedes quejarte, o ir al cine, tieso",
     "telegram": "",
@@ -46267,6 +46267,60 @@
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://73bf8c0edc73c73b3207b87668e852d3c635682c",
 			 "isHost":"true"
-                     }]
+                     },{
+"name": "Películas en V-O-S-E",
+"image": "https://i.ibb.co/K5WVqLq/V-O-S-E.jpg",
+"info": "",
+"stations": [{
+"name": "Los mercen4rios (2023)V.O.S.E",
+"image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+"url": "https://upstream.to/6a0j84yhos9p",
+"isHost":"true"
+},{
+"name": "RRR (2022) V.O.S.E",
+"image": "https://www.elseptimoarte.net/carteles/341/rrr_91697.jpg",
+"url" : "https://upstream.to/fo6g7i4160lh",
+"isHost": "true"
+},{
+"name": "Lev Yashin. The Dream Goalkeeper (V.O.S.E)",
+"image": "https://pics.filmaffinity.com/lev_yashin_vratar_moey_mechty-503276395-mmed.jpg",
+"url": "https://pelisplay.io/play?id=NjkxMzI=",
+"isHost":"true"
+},{
+"name": "La pasión de Cristo (2004) V.O.S.E",
+"image": "https://www.elseptimoarte.net/carteles/341/la_pasion_de_cristo_37417.jpg",
+"url": "https://upstream.to/z7sf38mf5588",
+"isHost":"true"
+},{
+"name": "Aftersun (2022)V.O.S.E",
+"image": "https://www.elseptimoarte.net/carteles/341/aftersun_95742.jpg",
+"url": "https://upstream.to/k8cqwys66pkr",
+"isHost":"true"
+},{
+"name": "Reality Bites (Bocados de realidad) (1994)V.O.S.E",
+"image": "https://www.elseptimoarte.net/carteles/341/bocados_de_realidad_78803.jpg",
+"url": "https://ok.ru/videoembed/843303881350",
+"isHost":"true"
+},{
+"name": "La gran estafa (El desagravio)[V.O.S.E] (1989)",
+"image": "https://image.tmdb.org/t/p/w500/aLmAG96GVFAK47xw4oci8b4Y8YI.jpg",
+"url": "https://upstream.to/npu0u9l36uzi",
+"isHost":"true"
+},{
+"name": "Silent Hill: Revelation 3D (2012) (V.O.S.E)",
+"image": "https://www.elseptimoarte.net/carteles/341/silent_hill_revelation_3d_15218.jpg",
+"url": "https://upstream.to/q45avd8nlvlw",
+"isHost":"true"
+},{
+"name": "Los odiosos ocho (2015) (V.O.S.E)",
+"image": "https://www.elseptimoarte.net/carteles/341/los_odiosos_ocho_46759.jpg",
+"url": "https://opvid.org/1cjx6n6l3my9",
+"isHost":"true"
+},{
+"name" : "Últimas voluntades (2023) (V.O.S.E)",
+"image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
+"url" : "https://upstream.to/le9jvk3h45ls",
+"isHost" : "true"
+}]
             }]   
    }

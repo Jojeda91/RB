@@ -18,12 +18,12 @@
 
                          "name": "CANAL 1",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b"
+                   	"url" :  "acestream://ee38ea1806129de000bd7925a5d52554d70bb560"
                          }, {
 
                          "name": "CANAL 2",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://9a6aaee457d88eccdef6f0c0a40523dda0e64c2a"                    
+                   	"url" :  "acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d"                    
                 }]
                   },{
             "name": "TV",
